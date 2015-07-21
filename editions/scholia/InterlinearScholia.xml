@@ -23,6 +23,22 @@
             n="msAil">
             <body>
                <div
+                  n="2000"
+                  type="scholion">
+                  <div
+                     type="lemma">
+                     <p/>
+                  </div>
+                  <div
+                     type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.22@Ζῆν'</p>
+                  </div>
+                  <div
+                     type="comment">
+                     <p><rs type="waw">α</rs></p>
+                  </div>
+               </div>
+               <div
                   n="34"
                   type="scholion">
                   <div
@@ -31,11 +47,11 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.22</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.22@μήστωρ'</p>
                   </div>
                   <div
                      type="comment">
-                     <p>ἐργάτης τῆς τῶν κατα τὴν μάξην ἔργων ἔμπειρος ⁑</p>
+                     <p>ἐργάτης τῆς τῶν κατα τὴν μάχην ἔργων ἔμπειρος ⁑</p>
                   </div>
                </div>
                <div
@@ -47,11 +63,11 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.25</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.25@ῥίον</p>
                   </div>
                   <div
                      type="comment">
-                     <p>τὸ άροτήρυον τοῦ όρους </p>
+                     <p>τὸ <sic>ἀκροτήριον</sic> τοῦ όρους </p>
                   </div>
                </div>
                <div
@@ -63,11 +79,11 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.26</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.26@μετήορα</p>
                   </div>
                   <div
                      type="comment">
-                     <p>μετεορα ἐφ ύψους </p>
+                     <p><sic>μετέορα</sic> ἐφ ύψους </p>
                   </div>
                </div>
                <div
@@ -79,7 +95,7 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.27</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.27@περί τ' εἰμι</p>
                   </div>
                   <div
                      type="comment">
@@ -98,7 +114,7 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.32</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.32@εὖ νυ καὶ ἡμεῖς</p>
                   </div>
                   <div
                      type="comment">
@@ -114,7 +130,7 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.34</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.34@οἶτον</p>
                   </div>
                   <div
                      type="comment">
@@ -130,7 +146,7 @@
                   </div>
                   <div
                      type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.40</p>
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.40@πρόφρονι</p>
                   </div>
                   <div
                      type="comment">

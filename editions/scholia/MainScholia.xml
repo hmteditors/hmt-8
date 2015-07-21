@@ -168,7 +168,7 @@
                <div n="12" type="scholion">
                   <div type="lemma">
                      <p>τόσσον ἔνερθ' <placeName n="urn:cite:hmt:place.place67"
-                        >Ἀΐδεω</placeName>:</p>
+                        >Ἀΐδεω</placeName>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.16</p>
@@ -182,7 +182,7 @@
                </div>
                <div n="13" type="scholion">
                   <div type="lemma">
-                     <p><placeName n="urn:cite:hmt:place.place60">Τάρταρος</placeName>:</p>
+                     <p><placeName n="urn:cite:hmt:place.place60">Τάρταρος</placeName>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.13</p>
@@ -198,7 +198,7 @@
                <div n="14" type="scholion">
                   <div type="lemma">
                      <p>τόσσον ἔνερθ' <placeName n="urn:cite:hmt:place.place67"
-                        >Ἀΐδεω</placeName>:</p>
+                        >Ἀΐδεω</placeName>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.16</p>
@@ -298,7 +298,7 @@
                </div>
                <div n="19" type="scholion">
                   <div type="lemma">
-                     <p>πρόφρων ἐθέλοιμι <sic>ἐρρῦσαι</sic>:</p>
+                     <p>πρόφρων ἐθέλοιμι <sic>ἐρρῦσαι</sic>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.23</p>
@@ -307,14 +307,14 @@
                      <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> δια τοῦ <rs
                            type="waw">ω</rs>
                         <q>ἐθέλωμι</q>
-                        <persName n="urn:cite:hmt:pers.pers98">Πτολεμαῖος δὲ τ ὁ τοῦ
-                           Ὀροάνδου</persName> ἀντὶ τοῦ <q>πρόφρων</q>
+                        <persName n="urn:cite:hmt:pers.pers98">Πτολεμαῖος</persName> δὲ τ ὁ τοῦ
+                           <persName n="urn:cite:hmt:pers.pers98">Ὀροάνδου</persName> ἀντὶ τοῦ <q>πρόφρων</q>
                         <q>πρόσσω</q> γράφει ⁑</p>
                   </div>
                </div>
                <div n="4000" type="scholion">
                   <div type="lemma">
-                     <p>σειρὴν μέν κεν:</p>
+                     <p>σειρὴν μέν κεν⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.25-8.26</p>
@@ -326,7 +326,7 @@
                </div>
                <div n="20" type="scholion">
                   <div type="lemma">
-                     <p>σειρὴν μέν κεν:</p>
+                     <p>σειρὴν μέν κεν⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.25</p>
@@ -350,7 +350,7 @@
                </div>
                <div n="21" type="scholion">
                   <div type="lemma">
-                     <p>ὣς ἔφαθ' οἱ δ' ἄρα πάντες:</p>
+                     <p>ὣς ἔφαθ' οἱ δ' ἄρα πάντες⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.28</p>
@@ -385,7 +385,7 @@
                      <p>ὦ <choice>
                            <abbr>περ</abbr>
                            <expan>πάτερ</expan>
-                        </choice> ἡμέτερε:</p>
+                     </choice> ἡμέτερε⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.32-8.34</p>
@@ -405,7 +405,7 @@
                </div>
                <div n="24" type="scholion">
                   <div type="lemma">
-                     <p>θάρσει <persName n="urn:cite:hmt:pers.pers67">Τριτογένεια</persName>:</p>
+                     <p>θάρσει <persName n="urn:cite:hmt:pers.pers67">Τριτογένεια</persName>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.39-8.40</p>
@@ -419,7 +419,7 @@
                </div>
                <div n="25" type="scholion">
                   <div type="lemma">
-                     <p><persName n="urn:cite:hmt:pers.pers67">Τριτογένεια</persName>:</p>
+                     <p><persName n="urn:cite:hmt:pers.pers67">Τριτογένεια</persName>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.35</p>
