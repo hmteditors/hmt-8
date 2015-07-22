@@ -448,7 +448,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.43</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι ἀντι τοῦ <q>χρυσὴν</q> πανοπλίαν καὶ ὅτι ἐνθάδε λεγομένου τοῦ <persName
+                     <p>ὅτι ἀντι τοῦ <q><sic>χρυσὴν</sic></q> πανοπλίαν καὶ ὅτι ἐνθάδε λεγομένου τοῦ <persName
                            n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἀνειληφέναι τὴν ἰδίαν
                         πανοπλίαν οὐκέτι ἑξῆς ἐγχωρεῖ τὴν αυτὴν ταύτην πανοπλίαν ἀνειληφέναι τὴν
                            <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶν</persName> καὶ ὅτι τὸ
@@ -498,7 +498,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.48</p>
                   </div>
                   <div type="comment">
-                     <p>τὸ ἀκροτήριον τῆς <placeName n="urn:cite:hmt:place.place89">Ἴδης</placeName>
+                     <p>τὸ <sic>ἀκροτήριον</sic> τῆς <placeName n="urn:cite:hmt:place.place89">Ἴδης</placeName>
                         ἤτοι ἀπο τοῦ <q>γαργαρίζειν</q> καὶ ἀναδιδόναι τὰ ὕδατα, ἢ ἀπο μεταφορὰς τοῦ
                         ἐν τοῖς στόμασιν ἡμῶν γαργαρεῶνος τῆς λεγομένης <q>σταφυλῆς</q>· καὶ γὰρ τὸ
                         σῶμα τοῦτο ἀπο παχέος εἰς λεπτὸν καὶ ὀξὺ λήγει· τρία δέ εἰσιν ἀκρωτήρια τῆς
@@ -526,8 +526,8 @@
                         ἐνστάσης, ὁ μὲν <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> θεῶν
                         ἀγορὰν ἐποιεῖτο· οἱ δὲ <rs n="urn:cite:hmt:place.place96" type="ethnic"
                            >Ἀχαιοὶ</rs> δεῖπνον <choice>
-                           <abbr>εἴλαντ</abbr>
-                           <expan>εἴλαντο</expan>
+                           <abbr>εἵλαντ</abbr>
+                           <expan>εἵλαντο</expan>
                         </choice></p>
                   </div>
                </div>
@@ -570,7 +570,7 @@
                </div>
                <div n="48" type="scholion">
                   <div type="lemma">
-                     <p>πᾶσαι δ' ὡΐγνυντο πυλαι⁚</p>
+                     <p>πᾶσαι δ' <sic>ὡΐγνυντο</sic> πυλαι⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.58</p>
