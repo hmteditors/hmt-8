@@ -276,14 +276,9 @@
                   </div>
                   <div
                      type="comment">
-                     <p> ὡς <cit>
-                           <ref
-                              type="urn">urn:cts:greekLit:tlg0012.tlg001:20.72</ref>
-                           <ref
-                              type="urn">urn:cts:greekLit:tlg0012.tlg001:24.607</ref>
+                     <p> ὡς 
                            <q><persName
-                                 n="urn:cite:hmt:pers.pers35">Λητοῖ</persName></q>
-                        </cit> ἡ γὰρ εὐθεια <cit>
+                                 n="urn:cite:hmt:pers.pers35">Λητοῖ</persName></q> ἡ γὰρ εὐθεια <cit>
                            <ref
                               type="urn">urn:cts:greekLit:tlg0012.tlg001:1.341</ref>
                            <q>χρειὼ ἐμείω γένηται</q>
