@@ -20,8 +20,9 @@
    <text>
 
       <group n="8">
-         <text n="e3later">
+         <text n="e3late">
             <body>
+              
                <div n="95" type="scholion"/>
                <div n="97" type="scholion"/>
                <div n="152" type="scholion"/>
@@ -65,23 +66,6 @@
                <div n="411" type="scholion"/>
                <div n="414" type="scholion"/>
                <div n="416" type="scholion"/>
-
-            </body>
-         </text>
-         <text n="e3il">
-            <body>
-               <div n="60" type="scholion">
-                  <div type="ref">
-                     <p>urn:cts:greekLit:tlg0012.tlg001:8.83</p>
-                  </div>
-                  <div type="comment">
-                     <p>τε</p>
-                  </div>
-               </div>
-            </body>
-         </text>
-         <text n="e3illater">
-            <body>
                <div n="34" type="scholion"/>
                <div n="35" type="scholion"/>
                <div n="36" type="scholion"/>
@@ -171,11 +155,6 @@
                <div n="420" type="scholion"/>
                <div n="421" type="scholion"/>
                <div n="422" type="scholion"/>
-
-            </body>
-         </text>
-         <text n="e3imlater">
-            <body>
                <div n="115" type="scholion"/>
                <div n="116" type="scholion"/>
                <div n="136" type="scholion"/>
@@ -196,10 +175,6 @@
                <div n="403" type="scholion"/>
                <div n="404" type="scholion"/>
                <div n="423" type="scholion"/>
-            </body>
-         </text>
-         <text n="e3intlater">
-            <body>
                <div n="19" type="scholion"/>
                <div n="86" type="scholion"/>
                <div n="117" type="scholion"/>
@@ -238,11 +213,6 @@
                <div n="405" type="scholion"/>
                <div n="424" type="scholion"/>
                <div n="425" type="scholion"/>
-
-            </body>
-         </text>
-         <text n="e3extlater">
-            <body>
                <div n="143" type="scholion"/>
                <div n="144" type="scholion"/>
                <div n="170" type="scholion"/>
@@ -251,9 +221,10 @@
                <div n="252" type="scholion"/>
                <div n="253" type="scholion"/>
                <div n="366" type="scholion"/>
-
             </body>
          </text>
+
+         
          <text n="e3">
             <body>
                <div n="2" type="scholion">
