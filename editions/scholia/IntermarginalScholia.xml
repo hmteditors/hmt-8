@@ -1115,8 +1115,14 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.512</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι ἀντὶ τοῦ <rs type="waw">μη</rs> ῥαδίως <rs type="waw">μήπως</rs> χωρὶς
-                           <rs type="waw">πουδῆς</rs> ⁑ </p>
+                     <p><choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice>
+                        <choice>
+                           <abbr>αντ</abbr>
+                           <expan>ἀντὶ</expan>
+                        </choice> τοῦ <q>μη</q> ῥαδίως <q>μήπως</q> χωρὶς <q>πουδῆς</q> ⁑ </p>
                   </div>
                </div>
                <div n="331" type="scholion">
@@ -1127,7 +1133,11 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.515</p>
                   </div>
                   <div type="comment">
-                     <p>γράφεται <q>νηὸς αποθρώσκων</q>: </p>
+                     <p><choice>
+                           <abbr>γρ</abbr>
+                           <expan>γράφεται</expan>
+                        </choice>
+                        <q>νηὸς αποθρώσκων</q>: </p>
                   </div>
                </div>
                <div n="332" type="scholion">
@@ -1138,7 +1148,14 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.519</p>
                   </div>
                   <div type="comment">
-                     <p>γράφεται <q>περὶ άστυ</q> ⁑ </p>
+                     <p><choice>
+                           <abbr>γρ</abbr>
+                           <expan>γράφεται</expan>
+                        </choice>
+                        <q><choice>
+                              <abbr>πε</abbr>
+                              <expan>περὶ</expan>
+                           </choice> άστυ</q> ⁑ </p>
                   </div>
                </div>
                <div n="333" type="scholion">
@@ -1149,7 +1166,10 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.521</p>
                   </div>
                   <div type="comment">
-                     <p>ἀντὶ τοῦ <rs type="waw">καιέτωσαν</rs> ⁑ </p>
+                     <p><choice>
+                           <abbr>αντ</abbr>
+                           <expan>ἀντὶ</expan>
+                        </choice> τοῦ <q>καιέτωσαν</q> ⁑ </p>
                   </div>
                </div>
                <div n="334" type="scholion">
@@ -1185,7 +1205,11 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.553</p>
                   </div>
                   <div type="comment">
-                     <p>γράφεται <q>γεφύρη</q> ⁑ </p>
+                     <p><choice>
+                           <abbr>γρ</abbr>
+                           <expan>γράφεται</expan>
+                        </choice>
+                        <q>γεφύρη</q> ⁑ </p>
                   </div>
                </div>
                <div n="358" type="scholion">
@@ -1196,7 +1220,10 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.560</p>
                   </div>
                   <div type="comment">
-                     <p>γράφεται καὶ <q>τοῖα μεσηγὺ</q> καὶ <q>ὡς τα μεσηγυ</q> ⁑ </p>
+                     <p><choice>
+                           <abbr>γρ</abbr>
+                           <expan>γράφεται</expan>
+                        </choice> καὶ <q>τοῖα μεσηγὺ</q> καὶ <q>ὡς τα μεσηγυ</q> ⁑ </p>
                   </div>
                </div>
                <div n="359" type="scholion">

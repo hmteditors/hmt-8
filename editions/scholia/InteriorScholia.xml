@@ -676,7 +676,10 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.505</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι οὐ μέλλοντα σημαίνει τὸ <rs type="waw">άξεσθε</rs> αλλ' εν ἴσω τῷ <choice>
+                     <p><choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice> οὐ μέλλοντα σημαίνει τὸ <q>άξεσθε</q> αλλ' εν ἴσω τῷ <choice>
                            <abbr>άγετ</abbr>
                            <expan>άγετε</expan>
                         </choice> ⁑ </p>
@@ -701,7 +704,15 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.517</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι ἀντὶ <rs type="waw">ἀγγελλέτωσαν</rs> ⁑ </p>
+                     <p><choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice>
+                        <choice>
+                           <abbr>αντ</abbr>
+                           <expan>ἀντὶ</expan>
+                        </choice>
+                        <q>ἀγγελλέτωσαν</q> ⁑ </p>
                   </div>
                </div>
                <div n="350" type="scholion">
@@ -712,7 +723,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.529</p>
                   </div>
                   <div type="comment">
-                     <p>γράφεται <q>ἐπι νύκτα</q>
+                     <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> <q>ἐπι νύκτα</q>
                      </p>
                   </div>
                </div>
