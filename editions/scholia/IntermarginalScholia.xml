@@ -225,7 +225,7 @@
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice> συν τῷ <rs type="waw">ν</rs>
-                        <rs type="waw">ἀμφιβεβήκειν</rs> ⁑</p>
+                        <q>ἀμφιβεβήκειν</q> ⁑</p>
                   </div>
                </div>
                <div n="72" type="scholion">
@@ -374,8 +374,7 @@
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
-                        <rs type="waw">φύγον</rs> ἄλλοι δὲ <q>φύγεν</q> ἐν αλλω δὲ τὸ
-                           <q>φοινικόεντα</q> ⁑ </p>
+                        <q>φύγον</q> ἄλλοι δὲ <q>φύγεν</q> ἐν αλλω δὲ τὸ <q>φοινικόεντα</q> ⁑ </p>
                   </div>
                </div>
                <div n="123" type="scholion">
@@ -386,7 +385,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.152</p>
                   </div>
                   <div type="comment">
-                     <p>ἐπι τὸ <rs type="waw">δαΐφρονος</rs> στικτέον μᾶλλον γὰρ ἐμφαίνει </p>
+                     <p>ἐπι τὸ <q>δαΐφρονος</q> στικτέον μᾶλλον γὰρ ἐμφαίνει </p>
                   </div>
                </div>
                <div n="124" type="scholion">
@@ -635,7 +634,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.301</p>
                   </div>
                   <div type="comment">
-                     <p>προς το <rs type="waw">βαλέειν</rs>
+                     <p>προς το <q>βαλέειν</q>
                      </p>
                   </div>
                </div>
@@ -648,7 +647,7 @@
                   </div>
                   <div type="comment">
                      <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
-                        <rs type="waw">Αἱσύμνηθεν</rs> καὶ ἡ <persName n="urn:cite:hmt:pers.pers15"><choice>
+                        <q>Αἱσύμνηθεν</q> καὶ ἡ <persName n="urn:cite:hmt:pers.pers15"><choice>
                               <abbr>Ζηνοδοτ</abbr>
                               <expan>Ζηνοδοτου</expan>
                            </choice></persName> καὶ ἡ <persName n="urn:cite:hmt:pers.pers21"><choice>
@@ -891,9 +890,8 @@
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
                         </choice>
-                        <rs type="waw">σὺ</rs> διὰ τοῦ <rs type="waw">υ</rs> το δὲ <rs type="waw"
-                           >ἀδεές</rs> δι ενὸς <rs type="waw">δ</rs> ὁ <persName
-                           n="urn:cite:hmt:pers.pers16"><choice>
+                        <q>σὺ</q> διὰ τοῦ <rs type="waw">υ</rs> το δὲ <q>ἀδεές</q> δι ενὸς <rs
+                           type="waw">δ</rs> ὁ <persName n="urn:cite:hmt:pers.pers16"><choice>
                               <abbr>Αρισταρχ</abbr>
                               <expan>Ἀριστάρχος</expan>
                            </choice></persName> ⁑ </p>
@@ -911,7 +909,7 @@
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
                         </choice>
-                        <rs type="waw">νῶϊ</rs>
+                        <q>νῶϊ</q>
                         <choice>
                            <abbr>χω</abbr>
                            <expan>χωρὶς</expan>

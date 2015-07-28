@@ -1263,7 +1263,7 @@
                      <p><persName n="urn:cite:hmt:pers.pers622">Ἡρακλείδης</persName> ὁ <rs
                            n="urn:cite:hmt:place.place120" type="ethnic">Μειλήσιος</rs> βαρύνει ὡς
                            <sic>ἄσητα</sic>. λόγῳ δὲ χρῆται τούτῳ ὡς ὅτι βληχρον ἐστι τὸ ἰσχυρόν
-                        ὅπερ κατα στέρησιν ὀφείλει λέγεσθαι <rs type="waw">ἄβληχρος</rs> ὡς
+                        ὅπερ κατα στέρησιν ὀφείλει λέγεσθαι <q>ἄβληχρος</q> ὡς
                            <q>ἄκακος</q> σημαίνει γὰρ τὸ <choice>
                            <sic>ἀσθενὲς</sic>
                            <corr>ἀσθενές</corr>
@@ -1440,9 +1440,8 @@
                   </div>
                   <div type="comment">
                      <p><persName n="urn:cite:hmt:pers.pers8">Ζῆν</persName> αὐτοῦ κ' ἔνθ' ἀκαχοιτο:
-                        εἰ δια τὸν <rs type="waw">ει</rs> σύνδεσμον ἀποτελουμένη ὑποστιγμὴ πίπτει
-                        μετα τὸ <persName n="urn:cite:hmt:pers.pers8"><rs type="waw"
-                           >Ζῆν</rs></persName> ὄνομα ⁑ </p>
+                        εἰ δια τὸν <q>ει</q> σύνδεσμον ἀποτελουμένη ὑποστιγμὴ πίπτει
+                        μετα τὸ <q><persName n="urn:cite:hmt:pers.pers8">Ζῆν</persName></q> ὄνομα ⁑ </p>
                   </div>
                </div>
                <div n="9011" type="scholion">
@@ -1861,8 +1860,8 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.283</p>
                   </div>
                   <div type="comment">
-                     <p>ἡ <rs type="waw">σε</rs> ἀντωνυμία ἐγκλιτική ἐστι, τὸ δε ὁ παρα τῷ ποιητῇ
-                        κείμενον ἐστιν ἀντι τοῦ <rs type="waw">ος</rs> ⁑</p>
+                     <p>ἡ <q>σε</q> ἀντωνυμία ἐγκλιτική ἐστι, τὸ δε ὁ παρα τῷ ποιητῇ
+                        κείμενον ἐστιν ἀντι τοῦ <q>ος</q> ⁑</p>
                   </div>
                </div>
                <div n="196" type="scholion">
@@ -2270,7 +2269,7 @@
                         </cit> βέλτιον δὲ ὡς σύνηθες τοῖς ἄνω· ἡ δὲ διάνοια οὐκεθ' ἡμεῖς τῶν <rs
                            n="urn:cite:hmt:place.place3" type="ethnic">Ἑλλήνων</rs> ἀποστησόμεθα τό
                         γε <sic>πα</sic>
-                        <sic>ῥύστατον</sic> νῦν <q>ὑστάτιον</q> ἀντι τοῦ <rs type="waw">ὕστατον</rs>
+                        <sic>ῥύστατον</sic> νῦν <q>ὑστάτιον</q> ἀντι τοῦ <q>ὕστατον</q>
                         ὡς <sic>μάλλιον</sic>
                         <choice>
                            <sic>τῶν</sic>
@@ -2665,13 +2664,13 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.415</p>
                   </div>
                   <div type="comment">
-                     <p><rs type="waw">ει</rs> ἀντι τοῦ <rs type="waw">ως</rs> ἵν' ᾖ σύμφωνον τὸ <cit>
+                     <p><q>ει</q> ἀντι τοῦ <q>ως</q> ἵν' ᾖ σύμφωνον τὸ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.401</ref>
                            <q>ῶδε γὰρ ἐξερέω τὸ δὲ καὶ τετελεσμένον ἔσται</q>
                         </cit>. αἱ δε <persName n="urn:cite:hmt:pers.pers16"><choice>
                               <abbr>Ἀριστάρχ</abbr>
                               <expan>Ἀριστάρχου</expan>
-                           </choice></persName> δια τοῦ <rs type="waw">η</rs>. <q>ἠ τελέει περ</q>,
+                           </choice></persName> δια τοῦ <q>η</q>. <q>ἠ τελέει περ</q>,
                         καὶ γὰρ ὁ <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> φησὶ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.401</ref>
                            <q>τὸ δὲ καὶ τετελεσμένον ἔσται</q>
@@ -2949,7 +2948,7 @@
                                  >Πηλείωνα</persName></q>
                         </cit>. τό τε ἐπιφερόμενον ψεῦδός τι ἔχει οὐ γὰρ ἐν τῷ <rs type="waw"
                            >στείνει</rs> μάχονται· <q>στείνει</q> δὲ εἴωθε λέγειν τὴν στενὴν ὁδόν
-                        λέγει δὲ τὴν ὑπο πολλοῦ πλήθους στενοχωρίαν· <rs type="waw">αἰνωτάτῳ</rs> δὲ
+                        λέγει δὲ τὴν ὑπο πολλοῦ πλήθους στενοχωρίαν· <q>αἰνωτάτῳ</q> δὲ
                         τῷ χαλεπῷ δια τὸν φόβον ⁑</p>
                   </div>
                </div>

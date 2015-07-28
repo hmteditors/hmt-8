@@ -95,7 +95,7 @@
                   </div>
                   <div type="comment">
                      <p>ἐν ἑνίοις δια τοῦ <rs type="waw">ε</rs>
-                        <rs type="waw">εζεσθεν</rs> ⁑</p>
+                        <q>εζεσθεν</q> ⁑</p>
                   </div>
                </div>
                <div n="75" type="scholion">
@@ -106,7 +106,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.81</p>
                   </div>
                   <div type="comment">
-                     <p>εν τισι τῶν ὑπομνημάτων <rs type="waw">ἐδάμνατο</rs> ⁑</p>
+                     <p>εν τισι τῶν ὑπομνημάτων <q>ἐδάμνατο</q> ⁑</p>
                   </div>
                </div>
                <div n="76" type="scholion">
@@ -461,8 +461,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.313</p>
                   </div>
                   <div type="comment">
-                     <p>πρὸς τὸ <rs type="waw">βάλε</rs> ἀντι τοῦ <rs type="waw"
-                                 ><w>έπ<unclear>ε</unclear>σεν</w></rs> ⁑ </p>
+                     <p>πρὸς τὸ <q>βάλε</q> ἀντι τοῦ <q><w>έπ<unclear>ε</unclear>σεν</w></q> ⁑ </p>
                   </div>
                </div>
                <div n="220" type="scholion">
@@ -531,7 +530,7 @@
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> τινὲς γράφουσι <rs type="waw">σὺν</rs> τῷ <rs type="waw">ν</rs>
+                        </choice> τινὲς γράφουσι <q>σὺν</q> τῷ <rs type="waw">ν</rs>
                         κακῶς </p>
                   </div>
                </div>
