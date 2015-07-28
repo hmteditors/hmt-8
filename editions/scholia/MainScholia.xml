@@ -448,10 +448,10 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.43</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι ἀντι τοῦ <q><sic>χρυσὴν</sic></q> πανοπλίαν καὶ ὅτι ἐνθάδε λεγομένου τοῦ <persName
-                           n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἀνειληφέναι τὴν ἰδίαν
-                        πανοπλίαν οὐκέτι ἑξῆς ἐγχωρεῖ τὴν αυτὴν ταύτην πανοπλίαν ἀνειληφέναι τὴν
-                           <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶν</persName> καὶ ὅτι τὸ
+                     <p>ὅτι ἀντι τοῦ <q><sic>χρυσὴν</sic></q> πανοπλίαν καὶ ὅτι ἐνθάδε λεγομένου τοῦ
+                           <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἀνειληφέναι τὴν
+                        ἰδίαν πανοπλίαν οὐκέτι ἑξῆς ἐγχωρεῖ τὴν αυτὴν ταύτην πανοπλίαν ἀνειληφέναι
+                        τὴν <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶν</persName> καὶ ὅτι τὸ
                            <q>γέντο</q> ἐκ τῶν συμφραζομένων <q>νοεῖται</q> τεταγμένον ἀντι τοῦ
                            <q>ἔλαβεν</q> ⁑</p>
                   </div>
@@ -498,12 +498,13 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.48</p>
                   </div>
                   <div type="comment">
-                     <p>τὸ <sic>ἀκροτήριον</sic> τῆς <placeName n="urn:cite:hmt:place.place89">Ἴδης</placeName>
-                        ἤτοι ἀπο τοῦ <q>γαργαρίζειν</q> καὶ ἀναδιδόναι τὰ ὕδατα, ἢ ἀπο μεταφορὰς τοῦ
-                        ἐν τοῖς στόμασιν ἡμῶν γαργαρεῶνος τῆς λεγομένης <q>σταφυλῆς</q>· καὶ γὰρ τὸ
-                        σῶμα τοῦτο ἀπο παχέος εἰς λεπτὸν καὶ ὀξὺ λήγει· τρία δέ εἰσιν ἀκρωτήρια τῆς
-                           <placeName n="urn:cite:hmt:place.place89">Ἴδης</placeName>· <placeName
-                           n="urn:cite:hmt:place.place284">Λεκτόν</placeName>
+                     <p>τὸ <sic>ἀκροτήριον</sic> τῆς <placeName n="urn:cite:hmt:place.place89"
+                           >Ἴδης</placeName> ἤτοι ἀπο τοῦ <q>γαργαρίζειν</q> καὶ ἀναδιδόναι τὰ
+                        ὕδατα, ἢ ἀπο μεταφορὰς τοῦ ἐν τοῖς στόμασιν ἡμῶν γαργαρεῶνος τῆς λεγομένης
+                           <q>σταφυλῆς</q>· καὶ γὰρ τὸ σῶμα τοῦτο ἀπο παχέος εἰς λεπτὸν καὶ ὀξὺ
+                        λήγει· τρία δέ εἰσιν ἀκρωτήρια τῆς <placeName n="urn:cite:hmt:place.place89"
+                           >Ἴδης</placeName>· <placeName n="urn:cite:hmt:place.place284"
+                           >Λεκτόν</placeName>
                         <placeName n="urn:cite:hmt:place.place276"><choice>
                               <sic>Γὰργαρον</sic>
                               <corr>Γάργαρον</corr>
@@ -576,8 +577,8 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.58</p>
                   </div>
                   <div type="comment">
-                     <p> ὅτι μία ἐστι πύλη καὶ πληθυντικῶς εἶπεν <q>πύλαι</q>· τὸ δὲ <q>πᾶσαι</q> ἀντι τοῦ
-                           <q>όλαι</q>· ὡς <cit>
+                     <p> ὅτι μία ἐστι πύλη καὶ πληθυντικῶς εἶπεν <q>πύλαι</q>· τὸ δὲ <q>πᾶσαι</q>
+                        ἀντι τοῦ <q>όλαι</q>· ὡς <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.135</ref>
                            <q>θριξὶ δὲ πάντα νέκυν καταείνυον</q>
                         </cit> ⁑</p>
@@ -967,8 +968,11 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.107</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι ἀντι τοῦ <q>φεύγειν</q> ἀεὶ τὸ <q>φέβεσθαι</q> παρ αυτῶ καὶ ὅτι ἐντεῦθεν
-                        τὸ <cit>
+                     <p><choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice> ἀντι τοῦ <q>φεύγειν</q> ἀεὶ τὸ <q>φέβεσθαι</q> παρ αυτῶ καὶ ὅτι
+                        ἐντεῦθεν τὸ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.767</ref>
                            <q>φόβον <persName n="urn:cite:hmt:pers.pers83">Ἄρηος</persName>
                               φορεούσας</q>
@@ -1598,8 +1602,10 @@
                   </div>
                   <div type="comment">
                      <p>προς τὸ έχων ἐν χειρὶ τί ποτε σημαίνει· ὁ μὲν <persName
-                           n="urn:cite:hmt:pers.pers69">Ἀπολλόδωρος</persName> ὅτι περιειλήσας εἶχεν
-                        ἐν τῇ χειρίας ὁ δὲ <persName n="urn:cite:hmt:pers.pers211"
+                           n="urn:cite:hmt:pers.pers69">Ἀπολλόδωρος</persName> ὅτι <choice>
+                           <abbr>πεειλήσας</abbr>
+                           <expan>περιειλήσας</expan>
+                        </choice> εἶχεν ἐν τῇ χειρίας ὁ δὲ <persName n="urn:cite:hmt:pers.pers211"
                            >Διονυσιος</persName> προς τὸ κατασείειν εὐθέες λαβόμενος τοῦ φάρους
                         φαρος δέ ἐστι πορφυροῦν ἱμάτιον ὃ μεταχειρίζεται ὁ βασιλεὺς ἕνεκα τοῦ
                         ἐυχερῶς ἑαυτὸν σημᾶναι τοῖς <rs n="urn:cite:hmt:place.place3" type="ethnic"
@@ -1770,8 +1776,10 @@
                         γεννηθῆναι ἔν τε τῇ προς τοὺς γίγαντας μάχη παραπτῆναι δι ὅπερ ἐν τῇ
                         διανεμήσει τῶν πτηνῶν <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>
                         τὸν ἀετὸν εἵλετο ὃ καὶ προστάσσει καὶ ἀγγέλῳ αὐτῷ χρᾶται προς εκείνους οὓς
-                        ἐπιφανείας ἀξιοῖ, ὅθεν καὶ ἀετὸς ἐκλήθη οὐχ ὡς τινες παρὰ τὸ ἀΐσσειν ἀλλα
-                        παρα τὸ ετεὸν δηλοῦν τὸ ἀληθές ⁑</p>
+                        ἐπιφανείας ἀξιοῖ, ὅθεν καὶ ἀετὸς ἐκλήθη οὐχ ὡς τινες <choice>
+                           <abbr>πα</abbr>
+                           <expan>παρὰ</expan>
+                        </choice> το ἀΐσσειν ἀλλα παρα τὸ ετεὸν δηλοῦν τὸ ἀληθές ⁑</p>
                   </div>
                </div>
                <div n="180" type="scholion">
@@ -2398,8 +2406,11 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.371-8.372</p>
                   </div>
                   <div type="comment">
-                     <p>ἀθετοῦνται δύο στίχοι ὅτι οὐκ έδει κατὰ μερος διηγήσασθαι καὶ ταῦτα πρὸς τὴν
-                        καλῶς εἰδυῖαν. καὶ μὴν οὐδὲ ἡμεῖς περισσόν τι προσιστοροῦμεν ⁑</p>
+                     <p>ἀθετοῦνται δύο στίχοι ὅτι οὐκ έδει <choice>
+                           <abbr>κατ</abbr>
+                           <expan>κατὰ</expan>
+                        </choice> μερος διηγήσασθαι καὶ ταῦτα πρὸς τὴν καλῶς εἰδυῖαν. καὶ μὴν οὐδὲ
+                        ἡμεῖς περισσόν τι προσιστοροῦμεν ⁑</p>
                   </div>
                </div>
                <div n="242" type="scholion">
@@ -2715,8 +2726,24 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.435</p>
                   </div>
                   <div type="comment">
-                     <p>βραχὺ διασταλτέον ἐπι τὸ <q>προς ενώπια</q> ἵνα ᾖ ἅρματα παμφανοωντα· ἰστὲον
-                        δὲ ὅτι τὰ οχήματα <q>ἅρματα</q> λέγει ⁑</p>
+                     <p>βραχὺ διασταλτέον ἐπι τὸ <q>προς ενώπια</q> ἵνα ᾖ <choice>
+                           <abbr>ἅρματ</abbr>
+                           <expan>ἅρματα</expan>
+                        </choice>
+                        <choice>
+                           <abbr>παμφανοωντ</abbr>
+                           <expan>παμφανόωντα</expan>
+                        </choice>· ἰστὲον δὲ <choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice> τὰ <choice>
+                           <abbr>οχήματ</abbr>
+                           <expan>ὀχήματα</expan>
+                        </choice>
+                        <q><choice>
+                              <abbr>ἅρματ</abbr>
+                              <expan>ἅρματα</expan>
+                           </choice></q> λέγει ⁑</p>
                   </div>
                </div>
                <div n="272" type="scholion">
@@ -2857,7 +2884,10 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.455</p>
                   </div>
                   <div type="comment">
-                     <p>ὅτι ἀρσενικῶς τὸ δυϊκὸν ἐσχημάτισται <q>πληγέντε</q> ἀντι τοῦ
+                     <p><choice>
+                           <abbr>οτ</abbr>
+                           <expan>ὅτι</expan>
+                        </choice> ἀρσενικῶς τὸ δυϊκὸν ἐσχημάτισται <q>πληγέντε</q> ἀντι τοῦ
                            <q>πληγεῖσαι</q>. καὶ <persName n="urn:cite:hmt:pers.pers4"
                            >Ἡσίοδος</persName>
                         <cit>
@@ -2931,9 +2961,11 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.478-8.479</p>
                   </div>
                   <div type="comment">
-                     <p>δείκνυσιν ὁ ποιητὴς ὅτι συναπολήγει γῆ καὶ θάλασσα ὡς ἂν τοῦ ὕδατος
-                        περικεχυμένου τῇ γῇ σφαιρικῶς καὶ καλύπτοντος αὐτὴν πλὴν τῶν ἀνεχουσῶν·
-                        ηπείρων εν αῖς κατοικοῦμεν ⁑</p>
+                     <p>δείκνυσιν ὁ ποιητὴς ὅτι συναπολήγει γῆ καὶ θάλασσα ὡς ἂν τοῦ ὕδατος <choice>
+                           <abbr>πεκεχυμένου</abbr>
+                           <expan>περικεχυμένου</expan>
+                        </choice> τῇ γῇ σφαιρικῶς καὶ καλύπτοντος αὐτὴν πλὴν τῶν ἀνεχουσῶν· ηπείρων
+                        εν αῖς κατοικοῦμεν ⁑</p>
                   </div>
                </div>
                <div n="306" type="scholion">
