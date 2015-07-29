@@ -624,7 +624,7 @@
                </div>
                <div n="64" type="scholion">
                   <div type="lemma">
-                     <p>ἀέξετο:</p>
+                     <p>ἀέξετο⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.66</p>
@@ -639,7 +639,7 @@
                      <p>ῆμος δ' <sic>ἡέλιος</sic> μέσον <choice>
                            <abbr>οὐνον</abbr>
                            <expan>οὐρανὸν</expan>
-                        </choice>:</p>
+                     </choice>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.68</p>
@@ -726,7 +726,7 @@
                </div>
                <div n="69" type="scholion">
                   <div type="lemma">
-                     <p>παρῃορίας⁚</p>
+                     <p><sic>παρῃορίας</sic>⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.87</p>
@@ -745,20 +745,20 @@
                   </div>
                   <div type="comment">
                      <p>δεινος ἐστιν <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> καὶ
-                        μιὰς λέξεως ὅλον τὸν ἄνδρα σημαίμει δια γὰρ τοῦ ἀπετάμνενε, τὴν ἀσθενειαν
+                        μιᾶς λέξεως ὅλον τὸν ἄνδρα <sic>σημαίμει</sic> δια γὰρ τοῦ <q>ἀπετάμνε</q> <sic>νε</sic>, τὴν ἀσθενειαν
                         τοῦ γέροντος δηλοῖ, καὶ ἐντεῦθεν τὸ <choice>
                            <abbr>βραδ</abbr>
-                           <expan>βραδυ</expan>
+                           <expan>βραδὺ</expan>
                         </choice> τῆς <choice>
                            <abbr>ενεργ</abbr>
-                           <expan>ενεργειας</expan>
-                        </choice> προσηκότως οὖν επί τοῦ πρεσβυτου ἐχρήσατο τῷ
-                              <w>παρατα<unclear>ν</unclear></w> χρόνῳ εἰπὼν τὸ ἀΐσσων· ἐπι δε τοῦ <choice>
+                           <expan>ἐνεργείας</expan>
+                        </choice> <sic>προσηκότως</sic> οὖν επί τοῦ πρεσβύτου ἐχρήσατο τῷ
+                              παρα <w>τ<unclear>ῳ</unclear></w> χρόνῳ εἰπὼν τὸ ἀΐσσων· ἐπι δε τοῦ <choice>
                            <sic>δεου</sic>
                            <corr>νεου</corr>
                         </choice>
                         <persName n="urn:cite:hmt:pers.pers217">Αὐτομέδοντος</persName> τῷ σuντελικῳ
-                        εἰπων ἀΐξε καὶ ἀπέκοψε συντόνως τὸ πραγμα δηλῶν ⁑</p>
+                        εἰπών ἄϊξε καὶ ἀπέκοψε συντόνως τὸ πραγμα δηλῶν ⁑</p>
                   </div>
                </div>
                <div n="78" type="scholion">

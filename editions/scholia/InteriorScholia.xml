@@ -94,7 +94,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.74</p>
                   </div>
                   <div type="comment">
-                     <p>ἐν ἑνίοις δια τοῦ <rs type="waw">ε</rs>
+                     <p>ἐν <sic>ἑνίοις</sic> δια τοῦ <rs type="waw">ε</rs>
                         <q>εζεσθεν</q> ⁑</p>
                   </div>
                </div>
@@ -126,13 +126,13 @@
                            <expan>ἀντὶ</expan>
                         </choice> τοῦ <choice>
                            <abbr>γρ</abbr>
-                           <expan>γραφεται</expan>
+                           <expan>γράφεται</expan>
                         </choice> βέλος γὰρ ⁑</p>
                   </div>
                </div>
                <div n="77" type="scholion">
                   <div type="lemma">
-                     <p>lemma</p>
+                     <p></p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.89</p>
