@@ -282,7 +282,7 @@
                            </choice></persName>
                         <sic>ὁπάζει</sic> ὁ δὲ <persName n="urn:cite:hmt:pers.pers250"
                            >Ϊξίων</persName>
-                        <note resp="Erbse">fr. 9 St.</note>
+                        
                         <q>ἐπείγει</q> ⁑ </p>
                   </div>
                </div>
@@ -549,8 +549,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.260</p>
                   </div>
                   <div type="comment">
-                     <p>ἐν αλλω <q>ὑπερώησαν δέ οι ἵπποι</q>
-                        <note resp="Erbse">(= Θ 314)</note>: </p>
+                     <p>ἐν αλλω <q>ὑπερώησαν δέ οι ἵπποι</q>⁚</p>
                   </div>
                </div>
                <div n="186" type="scholion">
@@ -583,7 +582,7 @@
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
-                        <q>βεβληκοι</q>: </p>
+                        <q>βεβληκοι</q>⁚ </p>
                   </div>
                </div>
                <div n="200" type="scholion">
