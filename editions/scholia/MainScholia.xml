@@ -759,7 +759,7 @@
                            <sic>δεου</sic>
                            <corr>νεου</corr>
                         </choice>
-                        <persName n="urn:cite:hmt:pers.pers217">Αὐτομέδοντος</persName> τῷ σuντελικῳ
+                        <persName n="urn:cite:hmt:pers.pers217">Αὐτομέδοντος</persName> τῷ συντελικῳ
                         εἰπών ἄϊξε καὶ ἀπέκοψε συντόνως τὸ πραγμα δηλῶν ⁑</p>
                   </div>
                </div>
@@ -1320,10 +1320,10 @@
                </div>
                <div n="136" type="scholion">
                   <div type="lemma">
-                     <p><persName n="urn:cite:hmt:pers.pers624">Ξανθέ</persName> τε καὶ σὺ <persName
+                     <p><persName n="urn:cite:hmt:pers.pers626">Ξανθέ</persName> τε καὶ σὺ <persName
                            n="urn:cite:hmt:pers.pers276">Πόδαργε</persName>. καὶ <persName
                            n="urn:cite:hmt:pers.pers625">Αἴθων</persName>
-                        <persName n="urn:cite:hmt:pers.pers626">Λάμπε</persName> τε δῖον·</p>
+                        <persName n="urn:cite:hmt:pers.pers624">Λάμπε</persName> τε δῖον·</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.185</p>
