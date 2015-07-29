@@ -182,7 +182,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.118</p>
                   </div>
                   <div type="comment">
-                     <p>‡ ἀντικρῦς βουλευομένου ὁρμᾶν ⁑ </p>
+                     <p>‡ <sic>ἀντικρῦς</sic> βουλευομένου ὁρμᾶν ⁑ </p>
                   </div>
                </div>
                <div n="113" type="scholion">
@@ -282,7 +282,7 @@
                         </choice> καὶ <q>ἐπ <placeName n="urn:cite:hmt:place.place89"><choice>
                                  <abbr>Ιδαίω</abbr>
                                  <expan>Ιδαίων</expan>
-                              </choice></placeName></q>: </p>
+                        </choice></placeName></q>⁚ </p>
                   </div>
                </div>
                <div n="142" type="scholion">
@@ -353,7 +353,7 @@
                      <p>πρὸς τὴν ἀνάγνωσιν ὅτι <choice>
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
-                        </choice> προσενεκτέον ⁑ </p>
+                        </choice> προς ἐνεκτεον ⁑ </p>
                   </div>
                </div>
                <div n="188" type="scholion">
