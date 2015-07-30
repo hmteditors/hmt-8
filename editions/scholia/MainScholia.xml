@@ -2699,7 +2699,7 @@
                </div>
                <div n="269" type="scholion">
                   <div type="lemma">
-                     <p>‡ τῶν· αλλος μὲν ἀποφθείσθω·</p>
+                     <p>‡ τῶν· αλλος μὲν <sic>ἀποφθείσθω</sic>·</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.429</p>
@@ -2759,13 +2759,13 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.435</p>
                   </div>
                   <div type="comment">
-                     <p>τοὺς παριδίους τοίχους, οὗτοι γὰρ μόνοι φαίνονται τοῖς παριοῦσι τινὲς δὲ τὸ
+                     <p>τοὺς <sic>παριδίους</sic> τοίχους, οὗτοι γὰρ μόνοι φαίνονται τοῖς παριοῦσι τινὲς δὲ τὸ
                         ἑξῆς <q>ἅρματα παμφανόωντα</q> οὐκ εὖ·</p>
                   </div>
                </div>
                <div n="273" type="scholion">
                   <div type="lemma">
-                     <p>οὔλυμπον δὲ δίωκε</p>
+                     <p><placeName n="urn:cite:hmt:place.place45">Οὔλυμπον</placeName> δὲ δίωκε</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.439</p>
@@ -2777,7 +2777,7 @@
                </div>
                <div n="274" type="scholion">
                   <div type="lemma">
-                     <p>ἅρματα δ' ἀνβωμοῖσι</p>
+                     <p>ἅρματα δ' ἀν βωμοῖσι</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.441</p>
@@ -2786,10 +2786,10 @@
                      <p><persName n="urn:cite:hmt:pers.pers107">Χρύσιππος</persName> ὑφ ἓν
                         προφέρεται· ὁ μέντοι <persName n="urn:cite:hmt:pers.pers16"><choice>
                               <abbr>Ἀρισταρχ</abbr>
-                              <expan>Ἀρισταρχος</expan>
+                              <expan>Ἀρίσταρχος</expan>
                            </choice></persName> δύο <choice>
                            <abbr>με</abbr>
-                           <expan>μερη</expan>
+                           <expan>μέρη</expan>
                         </choice>
                         <choice>
                            <abbr>λο</abbr>
@@ -2800,8 +2800,8 @@
                         </cit> χρὴ μέντοι γινώσκειν ὅτι δια τοῦ <rs type="waw">μ</rs> γράφεται, κὰν
                         παράθεσις ᾖ ὁμοίως τὸ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.298</ref>
-                           <q>ἀμ φόνον ᾶν νέκυας</q>
-                        </cit> τὸ δὲ αιτιον εν τοῖς <title>Περι ορθογραφίας εἴρηται</title> ⁑</p>
+                           <q>ἀμ φόνον ἀν νέκυας</q>
+                        </cit> τὸ δὲ αιτιον εν τοῖς <title>περι ορθογραφίας εἴρηται</title> ⁑</p>
                   </div>
                </div>
                <div n="275" type="scholion">
@@ -2812,13 +2812,13 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.441</p>
                   </div>
                   <div type="comment">
-                     <p>μετὰ πλασμός ἐστιν ἔνθεν βαρύνεται· επεὶ πᾶσα αιτιατικὴ ἑνικὴ <choice>
+                     <p><sic>μετὰπλασμός</sic> ἐστιν ἔνθεν βαρύνεται· επεὶ πᾶσα αιτιατικὴ ἑνικὴ <choice>
                            <abbr>απαθ</abbr>
-                           <expan>απαθὴς</expan>
+                           <expan>ἀπαθὴς</expan>
                         </choice> εἰς <rs type="waw">α</rs> λήγουσα βαρύνεται ὑπεσταλμένης τῆς τινά <choice>
                            <abbr>ἀπαθ</abbr>
                            <expan>ἀπαθὴς</expan>
-                        </choice>, δια τὸ εὐφυᾷ διφυᾶ καὶ τὰ τοιαῦτα· τὸ δὲ εξῆς ἐστι καταπετάσας
+                        </choice>, δια τὸ <sic>εὐφυᾷ</sic> διφυᾶ καὶ τὰ τοιαῦτα· τὸ δὲ εξῆς ἐστι καταπετάσας
                         καὶ καλύψας λιτῷ περιβολαίω ⁑</p>
                   </div>
                </div>
@@ -2860,9 +2860,9 @@
                   <div type="comment">
                      <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice>
                               <abbr>Ζηνοδοτ</abbr>
-                              <expan>Ζηνοδοτος</expan>
+                              <expan>Ζηνόδοτος</expan>
                            </choice></persName> γράφει <q>καμέτην</q> διὰ τοῦ <rs type="waw">η</rs>
-                        ἀντι τοῦ <q>ἕκαμον</q>· τὸ δὲ <q>κάμετον</q>, προς τὸ πρόσωπον ἀντι τοῦ
+                        ἀντι τοῦ <q><sic>ἕκαμον</sic></q>· τὸ δὲ <q>κάμετον</q>, προς τὸ πρόσωπον ἀντι τοῦ
                            <q>εκάμετε</q> ὃ καὶ συμφωνεῖ ⁑</p>
                   </div>
                </div>
@@ -2915,8 +2915,7 @@
                               <abbr>Ζηνόδοτ</abbr>
                               <expan>Ζηνόδοτος</expan>
                            </choice></persName> γράφει <q>ἄας δη καὶ μᾶλλον</q> ἀντι τοῦ <rs
-                           type="waw">ἐσαύριον</rs> ἔστι δὲ ἡ λέξις οὐχ <persName
-                           n="urn:cite:hmt:pers.pers17">Ὁμηρική</persName>:</p>
+                              type="waw">ἐσαύριον</rs> ἔστι δὲ ἡ λέξις οὐχ Ὁμηρική⁚</p>
                   </div>
                </div>
                <div n="292" type="scholion">
