@@ -2583,7 +2583,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.402</p>
                   </div>
                   <div type="comment">
-                     <p>ἐγκλητικὴ νῦν ἐστιν ἡ ἀντωνυμία τρίτου γὰρ προσώπου· τὰ δὲ τρίτα δυϊκὰ τό τε
+                     <p><sic>ἐγκλητικὴ</sic> νῦν ἐστιν ἡ ἀντωνυμία τρίτου γὰρ προσώπου· τὰ δὲ τρίτα δυϊκὰ τό τε
                         σφωὲ καὶ <q>σφωῒν</q> ἐγκλιτικά ἐστι ὅτε μέντοι δευτέρου γίνεται τοῦ σφῶϊν
                         προπερισπᾶται· ὀρθοτονεῖται γὰρ τὸ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.416</ref>
@@ -2619,7 +2619,7 @@
                </div>
                <div n="261" type="scholion">
                   <div type="lemma">
-                     <p>αἱεὶ γάρ μοι ἕωθεν ἐνικλᾶν όττι νοήσω·</p>
+                     <p><sic>αἱεὶ</sic> γάρ μοι ἕωθεν ἐνικλᾶν όττι νοήσω·</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.408</p>
@@ -2628,7 +2628,7 @@
                      <p><q>ἐνικλᾶν</q> ἐμποδίζειν ἡ μεταφορὰ ἀπο τῶν εἰς τὰς ἀσπίδας ἀποθραυομένων
                         δοράτων· οὕτως δὲ γραπτέον <q>ὅττι κεν εἴπω</q> οἶον κατακάμπτειν καὶ μὴ ἐὰν
                         τὰ ὑπ εμοῦ εἰρημένα καὶ πάλιν ἑξῆς ἐν οῖς ἡ <persName
-                           n="urn:cite:hmt:pers.pers282">Ί̈ρις</persName> φησην <cit>
+                           n="urn:cite:hmt:pers.pers282">Ί̈ρις</persName> φησιν <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.422</ref>
                            <q>ὅττι κεν εἴπῃ</q>
                         </cit> γράφεται ⁑</p>
@@ -2657,14 +2657,14 @@
                      <p>οὐχ ὡς καὶ ἄλλων οὐσῶν. ἀλλ' αντι τοῦ <q>άκραι</q> ὡς τὸ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.40</ref>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.371</ref>
-                           <q>ἄξαντ' ἐν πρῴτῳ ῥυμῷ ἀντι τοῦ <q>ἄκρῳ</q>
+                           <q>ἄξαντ' ἐν <sic>πρῴτῳ</sic> ῥυμῷ ἀντι τοῦ <q>ἄκρῳ</q>
                            </q>
                         </cit> ⁑ </p>
                   </div>
                </div>
                <div n="264" type="scholion">
                   <div type="lemma">
-                     <p>εἰ τελε εἴπερ⁚</p>
+                     <p>εἰ <sic>τελεεἴ</sic> περ⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.415</p>
