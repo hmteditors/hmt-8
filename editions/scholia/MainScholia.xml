@@ -2224,7 +2224,7 @@
                            <expan>χωρὶς</expan>
                         </choice> τοῦ <rs type="waw">ν</rs> λέγει <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.36</ref>
-                           <q>τῇ δ ἐπι μὲν Γοργῷ</q>
+                           <q>τῇ δ ἐπι μὲν <sic>Γοργῷ</sic></q>
                         </cit> ὡς <q><persName n="urn:cite:hmt:pers.pers684">Σαπφώ</persName></q>.
                         δι ὃ λέγει <q>Γοργοῦς</q> ὡς <q><persName n="urn:cite:hmt:pers.pers684"
                               >Σαπφοῦς</persName></q>· <persName n="urn:cite:hmt:pers.pers16"><choice>
@@ -2238,8 +2238,8 @@
                         </choice> εῖχον <q>Γοργοῦς <sic>ὅμματ'</sic> ἔχων</q> οἷς συλλαμβάνει καὶ τὸ
                         ἀλλαχοῦ λεγόμενον <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.36</ref>
-                           <q>τῇ δ' ἐπι μὲν Γοργος <sic>βλωσυρωπης</sic></q>
-                        </cit>· χαλεπὸν οὖν τὸ σαφὲς εἰπεῖν:</p>
+                           <q>τῇ δ' ἐπι μὲν Γοργός <sic>βλωσυρωπης</sic></q>
+                        </cit>· χαλεπὸν οὖν τὸ σαφὲς εἰπεῖν⁚</p>
                   </div>
                </div>
                <div n="234" type="scholion">
@@ -2389,7 +2389,7 @@
                            <corr>τούτου</corr>
                         </choice> κατήει ὡς δὲ ἴδον αὐτὸν αἱ ψυχαὶ χωρὶς <persName
                            n="urn:cite:hmt:pers.pers312">Μελεαγρου</persName> καὶ <persName
-                           n="urn:cite:hmt:pers.pers618">Μεδούσης</persName> τῆς Γοργώνος, εὐθὺς
+                           n="urn:cite:hmt:pers.pers618">Μεδούσης</persName> τῆς <sic>Γοργώνος</sic>, εὐθὺς
                         ἔφυγον ἐπι δὲ τὴν Γοργόνα, τὸ ξίφος ὡς ζῶσαν <sic>ἔλκει</sic> καὶ παρα
                            <persName n="urn:cite:hmt:pers.pers104">Ερμοῦ</persName> μανθάνει ὅτι
                         ἔστι κενὸν εἴδωλον πλησίον δὲ τῶν <placeName n="urn:cite:hmt:place.place67"
@@ -2437,7 +2437,7 @@
                </div>
                <div n="243" type="scholion">
                   <div type="lemma">
-                     <p><placeName n="urn:cite:hmt:place.place286">Στυγὸς</placeName> ὕδατος:</p>
+                     <p><placeName n="urn:cite:hmt:place.place280">Στυγὸς</placeName> ὕδατος⁚</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.369</p>
