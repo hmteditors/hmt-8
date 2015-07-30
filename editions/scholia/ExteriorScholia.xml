@@ -34,7 +34,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p>ἐν δ'</p>
+                            <p><q>ἐν δ'</q></p>
                         </div>
                     </div>
                     <div
@@ -50,7 +50,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p>ἴφθιμοι </p>
+                            <p><q>ἴφθιμοι</q> </p>
                         </div>
                     </div>
                     <div
@@ -66,7 +66,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p><w><unclear>π</unclear>υρι</w> κηλέῳ</p>
+                            <p><q><w><unclear>π</unclear>υρι</w> κηλέῳ</q></p>
                         </div>
                     </div>
                     <div
@@ -82,7 +82,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p>ανωγει· ἄνωγεν· </p>
+                            <p><q>ανωγει</q>· <q>ἄνωγεν</q>· </p>
                         </div>
                     </div>
                     
@@ -100,7 +100,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p>περι ἄστυ </p>
+                            <p><q>περι ἄστυ</q> </p>
                         </div>
                     </div>
                     <div
@@ -116,7 +116,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p>ὑπηοῖοι </p>
+                            <p><q>ὑπηοῖοι</q> </p>
                         </div>
                     </div>
                     <div
@@ -132,7 +132,7 @@
                         </div>
                         <div
                             type="comment">
-                            <p>αἲ γαρ εῖ </p>
+                            <p><q>αἲ γαρ εῖ</q> </p>
                         </div>
                     </div>
                 </body>
