@@ -678,9 +678,9 @@
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> οὐ μέλλοντα σημαίνει τὸ <q>άξεσθε</q> αλλ' εν ἴσω τῷ <choice>
+                        </choice> οὐ μέλλοντα σημαίνει τὸ <q><sic>άζεσθαι</sic></q> αλλ' εν ἴσω τῷ <choice>
                            <abbr>άγετ</abbr>
-                           <expan>άγετε</expan>
+                           <expan>ἄγετε</expan>
                         </choice> ⁑ </p>
                   </div>
                </div>
@@ -692,7 +692,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.513</p>
                   </div>
                   <div type="comment">
-                     <p>καὶ μέχρις οἵκου κατάσχοι τὴν πληγήν ⁑ </p>
+                     <p>καὶ μέχρις <sic>οἵκου</sic> κατάσχοι τὴν πληγήν ⁑ </p>
                   </div>
                </div>
                <div n="337" type="scholion">
