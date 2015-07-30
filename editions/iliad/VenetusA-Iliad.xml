@@ -565,7 +565,7 @@
 					<persName n="urn:cite:hmt:pers.pers641">Ἐχίοιο</persName> πάϊς. καὶ δῖος <persName n="urn:cite:hmt:pers.pers629">Ἀλάστωρ</persName>. </l>
 				<l n="334">νῆας ἐπι γλαφυρὰς φερέτην βαρέα στενάχοντα· </l>
 				<l n="335">ὰψ δ' αὖτις <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσιν</rs>
-					<placeName n="urn:cite:hmt:place.place45">Ὀλύμπιος</placeName> ἒν μένος ῶρσεν· </l>
+					<rs type="ethnic" n="urn:cite:hmt:place.place45">Ὀλύμπιος</rs> ἒν μένος ῶρσεν· </l>
 				<l n="336">οἱ δ' ϊθὺς τάφροιο βαθείης ὦσαν <rs type="ethnic"
 						n="urn:cite:hmt:place.place96">Ἀχαιοὺς</rs>· </l>
 				<l n="337"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> δ' ἐν πρώτοισι
