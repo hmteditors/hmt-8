@@ -2,6 +2,7 @@ project.ext {
 
   textInventory="/vagrant/hmt-8/editions/inventory.xml"
   textArchive="/vagrant/hmt-8/editions"
+  textConfig="/vagrant/hmt-8/editions/textconfig.xml"
   invSchema="/vagrant/hmt-8/editions/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
